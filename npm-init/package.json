@@ -13,6 +13,7 @@
   "author": "Cesar Almeida <cesaralmeida89@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "json-server": "^0.17.2",
     "moment": "^2.29.4",
     "react": "^18.2.0"
   },
